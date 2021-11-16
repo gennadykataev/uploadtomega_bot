@@ -1,0 +1,5 @@
+token='token'
+dbname='dbname'
+dbuser='dbuser'
+dbpassword='dbpassword'
+dbhost='dbhost'
